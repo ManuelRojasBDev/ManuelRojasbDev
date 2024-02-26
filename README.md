@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="">
-  <img  src="https://github.com/Kronos57/MyResources/blob/main/grid-snake.svg"
+  <img  src="https://github.com/ManuelRojasBDev/MyResources/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
