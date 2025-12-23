@@ -97,7 +97,7 @@
 	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/manuelantoniorojasbarrero/">
 		<img src="https://www.svgrepo.com/show/138936/linkedin.svg" width="45px">
 	</a>
-	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="mail:manuelrojasbdev@gmail.com">
+	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="manuelrojasbdev@gmail.com">
 		<img src="https://www.svgrepo.com/show/249767/email-mail.svg" width="45px">
 	</a>
 </section>
@@ -113,4 +113,4 @@
 
 Credits: [Manuel Rojas](https://github.com/Kronos57)
 
-Last Edited on: 05/02/2024
+Last Edited on: 23/12/2025
