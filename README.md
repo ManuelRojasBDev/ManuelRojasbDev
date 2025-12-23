@@ -98,7 +98,7 @@
 		<img src="https://www.svgrepo.com/show/138936/linkedin.svg" width="45px">
 	</a>
 	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="mailto:manuelrojasbdev@gmail.com?">
-		<img src="https://www.svgrepo.com/show/249767/email-mail.svg" width="45px">
+		<img src="https://www.svgrepo.com/show/249767/email-mail.svg" width="45px">Enviarme un mensaje
 	</a>
 </section>
 
